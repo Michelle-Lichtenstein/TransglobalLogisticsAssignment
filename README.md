@@ -78,7 +78,7 @@ Some examples included in the scripts:
 Clone the repository:
 
 ```sql
-git clone https://github.com/Michelle-Lichtenstein/TransGlobalLogistics.git
+git clone https://github.com/Michelle-Lichtenstein/TransglobalLogisticsAssignment.git
 ```
 
 - Open TransGlobalLogistics_Script.sql in SQL Server Management Studio (SSMS).
